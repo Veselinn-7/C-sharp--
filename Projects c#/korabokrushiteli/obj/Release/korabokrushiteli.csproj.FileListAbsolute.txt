@@ -1,0 +1,5 @@
+C:\Users\Acer\documents\visual studio 2017\Projects\korabokrushiteli\korabokrushiteli\bin\Release\korabokrushiteli.exe.config
+C:\Users\Acer\documents\visual studio 2017\Projects\korabokrushiteli\korabokrushiteli\bin\Release\korabokrushiteli.exe
+C:\Users\Acer\documents\visual studio 2017\Projects\korabokrushiteli\korabokrushiteli\bin\Release\korabokrushiteli.pdb
+C:\Users\Acer\documents\visual studio 2017\Projects\korabokrushiteli\korabokrushiteli\obj\Release\korabokrushiteli.exe
+C:\Users\Acer\documents\visual studio 2017\Projects\korabokrushiteli\korabokrushiteli\obj\Release\korabokrushiteli.pdb

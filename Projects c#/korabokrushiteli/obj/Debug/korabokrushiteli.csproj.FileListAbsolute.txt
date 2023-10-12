@@ -1,0 +1,6 @@
+c:\users\acer\documents\visual studio 2017\Projects\korabokrushiteli\korabokrushiteli\bin\Debug\korabokrushiteli.exe.config
+c:\users\acer\documents\visual studio 2017\Projects\korabokrushiteli\korabokrushiteli\bin\Debug\korabokrushiteli.exe
+c:\users\acer\documents\visual studio 2017\Projects\korabokrushiteli\korabokrushiteli\bin\Debug\korabokrushiteli.pdb
+c:\users\acer\documents\visual studio 2017\Projects\korabokrushiteli\korabokrushiteli\obj\Debug\korabokrushiteli.exe
+c:\users\acer\documents\visual studio 2017\Projects\korabokrushiteli\korabokrushiteli\obj\Debug\korabokrushiteli.pdb
+C:\Users\Acer\documents\visual studio 2017\Projects\korabokrushiteli\korabokrushiteli\obj\Debug\korabokrushiteli.csprojResolveAssemblyReference.cache
