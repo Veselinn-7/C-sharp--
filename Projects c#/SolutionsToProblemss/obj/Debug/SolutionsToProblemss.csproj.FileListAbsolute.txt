@@ -1,0 +1,6 @@
+c:\users\acer\documents\visual studio 2017\Projects\SolutionsToProblemss\SolutionsToProblemss\bin\Debug\SolutionsToProblemss.exe.config
+c:\users\acer\documents\visual studio 2017\Projects\SolutionsToProblemss\SolutionsToProblemss\bin\Debug\SolutionsToProblemss.exe
+c:\users\acer\documents\visual studio 2017\Projects\SolutionsToProblemss\SolutionsToProblemss\bin\Debug\SolutionsToProblemss.pdb
+c:\users\acer\documents\visual studio 2017\Projects\SolutionsToProblemss\SolutionsToProblemss\obj\Debug\SolutionsToProblemss.csprojResolveAssemblyReference.cache
+c:\users\acer\documents\visual studio 2017\Projects\SolutionsToProblemss\SolutionsToProblemss\obj\Debug\SolutionsToProblemss.exe
+c:\users\acer\documents\visual studio 2017\Projects\SolutionsToProblemss\SolutionsToProblemss\obj\Debug\SolutionsToProblemss.pdb
